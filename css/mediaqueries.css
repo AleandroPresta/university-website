@@ -38,4 +38,10 @@
         flex-direction: column;
     }
 
+    /* TESTIMONIALS*/
+    .testimonial img{
+        margin-left: 0;
+        margin-right: 15px;
+    }
+
 }
