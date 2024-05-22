@@ -95,4 +95,7 @@ nav img {
     transition: 0.5s;
 }
 
+nav .fa {
+    display: none;
+}
 
