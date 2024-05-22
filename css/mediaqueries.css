@@ -33,4 +33,9 @@
 
     }
 
+    /* COURSE*/
+    .row {
+        flex-direction: column;
+    }
+
 }
